@@ -1,0 +1,7 @@
+[
+  { "name": "Osteria Francescana", "location": "Modena, Italy", "stars": 3 },
+  { "name": "Eleven Madison Park", "location": "New York City, USA", "stars": 3 },
+  { "name": "Mirazur", "location": "Menton, France", "stars": 3 },
+  { "name": "Asador Etxebarri", "location": "Axpe, Spain", "stars": 3 },
+  { "name": "Gaggan", "location": "Bangkok, Thailand", "stars": 2 }
+]
